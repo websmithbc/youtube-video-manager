@@ -68,24 +68,6 @@ Upload the `youtube-video-manager/` folder to `wp-content/plugins/`
 2. Click **Sync Videos**
 3. All videos from your YouTube channel will be added to the database
 
-## 🛠 Troubleshooting
-### 🔹 Common Issues & Fixes
-#### ❌ Error: `vendor/autoload.php` not found
-✅ Fix:
-```sh
-cd wp-content/plugins/youtube-video-manager/
-composer install
-```
-
-#### ❌ Error: Upload Failed: Invalid Credentials
-✅ Fix:
-- Ensure you entered the correct **Client ID & Secret**
-- Reauthorize in **Google Cloud Console**
-
-#### ❌ Error: YouTube API token expired
-✅ Fix:
-- Re-authenticate via **WordPress Admin → YouTube Settings**
-
 ## 👨‍💻 Contributing
 We welcome contributions! If you’d like to improve the plugin, follow these steps:
 
