@@ -110,5 +110,5 @@ Feel free to use and modify it as per your needs.
 
 ## 📞 Support
 For support or feature requests, please open an issue in the repository.
-🔗 **GitHub Issues**: [https://github.com/yourusername/youtube-video-manager/issues](https://github.com/yourusername/youtube-video-manager/issues)
+🔗 **GitHub Issues**: [https://github.com/websmithbc/youtube-video-manager/issues](https://github.com/websmithbc/youtube-video-manager/issues)
 
